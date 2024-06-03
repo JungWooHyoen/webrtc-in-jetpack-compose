@@ -38,7 +38,7 @@ If you’re interested in adding powerful In-App Messaging to your app, check ou
 
 - [Stream Video SDK for Android on GitHub](https://github.com/getStream/stream-video-android)
 - [Video Call Tutorial](https://getstream.io/video/docs/android/tutorials/video-calling/?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=Github_Aug2023_Jaewoong_MeetingRoomCompose&utm_term=DevRelOss)
-- [Audio Rooom Tutorial](https://getstream.io/video/docs/android/tutorials/audio-room/?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=Github_Aug2023_Jaewoong_MeetingRoomCompose&utm_term=DevRelOss)
+- [Audio Room Tutorial](https://getstream.io/video/docs/android/tutorials/audio-room/?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=Github_Aug2023_Jaewoong_MeetingRoomCompose&utm_term=DevRelOss)
 - [Livestream Tutorial](https://getstream.io/video/docs/android/tutorials/livestream/?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=Github_Aug2023_Jaewoong_MeetingRoomCompose&utm_term=DevRelOss)
 
 ## 📲 Download APK
